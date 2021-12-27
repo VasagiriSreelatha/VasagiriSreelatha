@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VasagiriSreelatha
 - 👀 I’m interested in learning new technologies & web development 
-- 🌱 I’m currently working on something 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently working on something  
 - 📫 How to reach me to my Gmail sreelatha18299@gmail.com
 
 <!---
